@@ -1,0 +1,5 @@
+body { background: white; font-size: 10pt; font-family:Arial; }
+h1 {text-align:center; font-weight:bold;font-style:italic;font-size:32pt;}
+h2 {text-align:center; font-size:20pt;}
+h3 {text-align:center; font-size:14pt;}
+.styleB{border:10pt solid black; width:auto; padding:80pt; margin-top:10pt; margin-bottom:10pt; margin-right:10pt; margin-left:10pt;}

@@ -1,6 +1,8 @@
 body {background:white; font-family:"Elephant";}
 h1 {text-align:center; font-weight:bold;font-style:italic;font-size:32pt;}
 h2 {text-align:center; font-size:20pt;}
+h3 {text-align:center; font-size:12pt;}
 ul { margin:0px; padding:0; list-style:none; }
 li { margin-left:18px; margin-bottom:18px; padding:0;  }
 .styleA{border:14pt solid black; width:auto; padding:120pt; margin-top:14pt; margin-bottom:14pt; margin-right:14pt; margin-left:14pt;}
+.resume {width: auto;margin-top:12pt; margin-bottom:12pt; margin-right:12pt; margin-left:12pt;padding: 80pt;border: 8pt solid black; float: left ;color: black;}
