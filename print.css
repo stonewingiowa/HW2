@@ -1,5 +1,9 @@
-body { background: white; font-size: 10pt; font-family:Arial; }
+body {background:white; font-family:"Arial";}
 h1 {text-align:center; font-weight:bold;font-style:italic;font-size:32pt;}
 h2 {text-align:center; font-size:20pt;}
-h3 {text-align:center; font-size:14pt;}
-.styleB{border:10pt solid black; width:auto; padding:80pt; margin-top:10pt; margin-bottom:10pt; margin-right:10pt; margin-left:10pt;}
+h3 {text-align:center; font-size:12pt;}
+h4 {text-align:center; font-size:10pt;}
+ul { margin:0px; padding:0; list-style:none; }
+li { margin-left:18px; margin-bottom:18px; padding:0;  }
+.styleA{border:14pt solid black; width:auto; padding:120pt; margin-top:14pt; margin-bottom:14pt; margin-right:14pt; margin-left:14pt;float:none;}
+.resume {width: auto;margin-top:10pt; margin-bottom:10pt; margin-right:10pt; margin-left:10pt;padding: 100pt;border: 8pt solid black; float: left ;color: black;transparent none;}
